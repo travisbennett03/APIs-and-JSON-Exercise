@@ -1,0 +1,17 @@
+C:\Users\Travis Bennett\repos\APIs-and-JSON-Exercise\APIsAndJSON\bin\Debug\net6.0\APIsAndJSON.exe
+C:\Users\Travis Bennett\repos\APIs-and-JSON-Exercise\APIsAndJSON\bin\Debug\net6.0\APIsAndJSON.deps.json
+C:\Users\Travis Bennett\repos\APIs-and-JSON-Exercise\APIsAndJSON\bin\Debug\net6.0\APIsAndJSON.runtimeconfig.json
+C:\Users\Travis Bennett\repos\APIs-and-JSON-Exercise\APIsAndJSON\bin\Debug\net6.0\APIsAndJSON.dll
+C:\Users\Travis Bennett\repos\APIs-and-JSON-Exercise\APIsAndJSON\bin\Debug\net6.0\APIsAndJSON.pdb
+C:\Users\Travis Bennett\repos\APIs-and-JSON-Exercise\APIsAndJSON\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Travis Bennett\repos\APIs-and-JSON-Exercise\APIsAndJSON\obj\Debug\net6.0\APIsAndJSON.csproj.AssemblyReference.cache
+C:\Users\Travis Bennett\repos\APIs-and-JSON-Exercise\APIsAndJSON\obj\Debug\net6.0\APIsAndJSON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Travis Bennett\repos\APIs-and-JSON-Exercise\APIsAndJSON\obj\Debug\net6.0\APIsAndJSON.AssemblyInfoInputs.cache
+C:\Users\Travis Bennett\repos\APIs-and-JSON-Exercise\APIsAndJSON\obj\Debug\net6.0\APIsAndJSON.AssemblyInfo.cs
+C:\Users\Travis Bennett\repos\APIs-and-JSON-Exercise\APIsAndJSON\obj\Debug\net6.0\APIsAndJSON.csproj.CoreCompileInputs.cache
+C:\Users\Travis Bennett\repos\APIs-and-JSON-Exercise\APIsAndJSON\obj\Debug\net6.0\APIsAndJSON.csproj.CopyComplete
+C:\Users\Travis Bennett\repos\APIs-and-JSON-Exercise\APIsAndJSON\obj\Debug\net6.0\APIsAndJSON.dll
+C:\Users\Travis Bennett\repos\APIs-and-JSON-Exercise\APIsAndJSON\obj\Debug\net6.0\refint\APIsAndJSON.dll
+C:\Users\Travis Bennett\repos\APIs-and-JSON-Exercise\APIsAndJSON\obj\Debug\net6.0\APIsAndJSON.pdb
+C:\Users\Travis Bennett\repos\APIs-and-JSON-Exercise\APIsAndJSON\obj\Debug\net6.0\APIsAndJSON.genruntimeconfig.cache
+C:\Users\Travis Bennett\repos\APIs-and-JSON-Exercise\APIsAndJSON\obj\Debug\net6.0\ref\APIsAndJSON.dll
